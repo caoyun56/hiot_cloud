@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.d("tag","test ： 123")
+        Log.d("tag","test ： 123dqwd")
 
     }
 }
